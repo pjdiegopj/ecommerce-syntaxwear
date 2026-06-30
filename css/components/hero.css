@@ -4,6 +4,7 @@
     height: 500px;
     position: relative;
     background-size: cover;
+    border-radius: 20px;
 }
 
 .hero-overlay {
@@ -12,7 +13,7 @@
     display: flex;
     align-items: center;
     justify-content: flex-end;
-    padding: 0 7rem;
+    padding: 0 6rem;
 }
 
 .hero-content {
