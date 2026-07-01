@@ -4,7 +4,7 @@
     top: 60px;
     left: 50%;
     transform: translate(-50%);
-    width: calc(100% - 210px);
+    width: 1260px;
     border-radius: 15px;
     z-index: 999;
     display: flex;
@@ -15,7 +15,8 @@
 }
 
 .logo img{
-    width: 48px;
+    height: 48px;
+    width: 150px;
 }
 
 .nav-center ul{
@@ -24,7 +25,7 @@
 }
 
 .nav-center a,
-.nav-right a{
+.nav-right a {
     font-size: 1.25rem;
     color: #333333;
 }
